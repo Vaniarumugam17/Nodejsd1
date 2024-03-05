@@ -1,0 +1,21 @@
+{
+  "name": "nodejsd1",
+  "version": "1.0.0",
+  "description": "default-thirdparty",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "file",
+    "system"
+  ],
+  "author": "vani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0"
+  }
+}
